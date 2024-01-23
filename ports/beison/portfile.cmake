@@ -1,8 +1,15 @@
 vcpkg_from_github(
 	OUT_SOURCE_PATH SOURCE_PATH
 	REPO dennisferron/beison
+	
+	# THIS is the head of the Beison git repo
 	REF dbe51578d79449a7d601dd7881f689f198fba1e6
+	
+	# THIS is (I think??) a hash of the expected content.
+	# Docs say start with 0 and replace it with value from
+	# the build error message when it complains...
 	SHA512 0
+	
 	HEAD_REF main
 )
 

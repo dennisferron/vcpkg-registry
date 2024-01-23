@@ -1,8 +1,8 @@
 {
   "name": "beison",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple json parsing and stringifying library",
-  "homepage": "https://github.com/northwindtraders/beison",
+  "homepage": "https://github.com/dennisferron/beison",
   "dependencies": [
     "beicode"
   ]
