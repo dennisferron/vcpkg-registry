@@ -1,8 +1,8 @@
 vcpkg_from_github(
 	OUT_SOURCE_PATH SOURCE_PATH
-	REPO northwindtraders/beison
-	REF 1920a0411fc48f1e805f0001e6a0975865217b70
-	SHA512 a3ad804f00e3deecef16c76d5c8355a0a727579145de210def8be64b775ec247477ec58d01bbdc233d467626eed2caf7048c60c147c7177cf8bb5d59add0c99a
+	REPO dennisferron/beison
+	REF dbe51578d79449a7d601dd7881f689f198fba1e6
+	SHA512 0
 	HEAD_REF main
 )
 
