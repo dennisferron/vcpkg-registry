@@ -8,7 +8,7 @@ vcpkg_from_github(
 	# THIS is (I think??) a hash of the expected content.
 	# Docs say start with 0 and replace it with value from
 	# the build error message when it complains...
-	SHA512 0
+	SHA512 a023efa034b63c3557113105003f657d622add13e43c2ee13fd706de5d4c5f44bd4e43ecec6093cebb0ce90fb4793d49fc777cb7739dc84249b0b5951166873f
 	
 	HEAD_REF main
 )
