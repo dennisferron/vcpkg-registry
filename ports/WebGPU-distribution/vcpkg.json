@@ -1,8 +1,9 @@
 {
-  "name": "WebGPU-distribution",
+  "name": "webgpu-distribution",
   "version": "1.0.0",
   "description": "Loads ",
   "homepage": "https://github.com/dennisferron/WebGPU-distribution",
   "dependencies": [
   ]
 }
+ 
