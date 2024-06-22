@@ -1,5 +1,9 @@
 {
   "default": {
+    "antlr4-testrig-runner": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "beicode": {
       "baseline": "1.0.0",
       "port-version": 0
