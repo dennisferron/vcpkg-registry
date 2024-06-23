@@ -2,7 +2,7 @@
   "default": {
     "antlr4-testrig-runner": {
       "baseline": "1.0.1",
-      "port-version": 2
+      "port-version": 3
     },
     "beicode": {
       "baseline": "1.0.0",
