@@ -1,7 +1,7 @@
 {
   "name": "antlr4-testrig-runner",
-  "version": "1.0.1",
-  "port-version": 4,
+  "version": "1.0.3",
+  "port-version": 0,
   "description": "Add custom targets to a C++ CMake project that run the Java ANTLR4 TestRig on your grammar files.",
   "homepage": "https://github.com/dennisferron/antlr4-testrig-runner",
   "dependencies": [
