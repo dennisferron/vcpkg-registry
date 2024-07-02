@@ -15,6 +15,9 @@ vcpkg_configure_cmake(
 )
 vcpkg_install_cmake()
 vcpkg_fixup_cmake_targets()
+vcpkg_copy_tools(
+    TOOL_NAMES antlr4-testrig-runner
+)
 
 file(REMOVE_RECURSE "${CURRENT_PACKAGES_DIR}/debug/include")
 
